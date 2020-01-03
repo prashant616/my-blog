@@ -32,20 +32,20 @@ Bachelor of Technology in Electrical Engineering
 
 ## PUBLICATIONS
 
-1. **Data Driven Sensing for Action Recognition using Deep Convolutional Neural Networks**  
+1. [**Data Driven Sensing for Action Recognition using Deep Convolutional Neural Networks**](https://www.researchgate.net/publication/337488173_Data_Driven_Sensing_for_Action_Recognition_Using_Deep_Convolutional_Neural_Networks)  
 *Lecture Notes in Computer Science, vol 11941. Springer, Cham // Dec 2019*
   - Developed a novel data-driven undersampling method using sub-pixel convolutional layers and integrated it with Inflated 3D ConvNet for action recognition
   - Successfully performed action recognition on both UCF-101 and HMDB-51 datasets at multiple (including very high) under-sampling ratios with small drop in accuracy
 
-2. **Compressive Sensing Based Privacy for Fall Detection**  
+2. [**Compressive Sensing Based Privacy for Fall Detection**](https://www.researchgate.net/publication/338188678_Compressive_sensing_based_privacy_for_fall_detection)  
 *Lecture Notes in Computer Science, Springer // Dec 2019*
   - Developed a privacy preserving fall detection framework based on block based compressive sensing and deep learning which works with wide variety of sensing matrices
 
-3. **Artificial Neural Network based Controller Design for SMPS**  
+3. [**Artificial Neural Network based Controller Design for SMPS**](https://www.researchgate.net/publication/338356363_Artificial_Neural_Network_based_controller_design_for_SMPS)  
 *IEEE Xplore Digital Library // Oct 2019*
   - Designed a controller using neural network for half-bridge converter based SMPS to replace conventional PID controllers
 
-4. **Few Shot Speaker Recognition using Deep Neural Networks**  
+4. [**Few Shot Speaker Recognition using Deep Neural Networks**](https://www.researchgate.net/publication/332522436_Few_Shot_Speaker_Recognition_using_Deep_Neural_Networks)  
 *Preprint // Apr 2019*
   - Developed a few shot speaker identification framework using deep convolutional neural networks with prototypical loss
   - Performed speaker identification and few shot speaker identification tasks on Voxceleb dataset using Capsule Network, VGG and ResNet34 architectures
