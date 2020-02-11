@@ -15,6 +15,8 @@ hidden: false
 description: How to create a GKE cluster using gcloud from command line
 ---
 
+This post is guide for creating a kubernetes cluster in a GCP project.
+
 1. Enable the [Kubernetes Engine API](https://console.cloud.google.com/apis/api/container.googleapis.com/overview) for your GCP project from <https://console.cloud.google.com>
 
 2. Install the [Google Cloud SDK](https://cloud.google.com/sdk/docs/#install_the_latest_cloud_tools_version_cloudsdk_current_version) which includes gcloud command line tools.

@@ -4,3 +4,5 @@ _site
 Gemfile.lock
 .bundle
 vendor/
+2016*
+2015*
