@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 I am currently working at Mercari, Inc. as Machine Learning Engineer in Tokyo, Japan. I have strong background in Computer Vision, Deep Learning, Speech Recognition and NLP. I am an alumni of Indian Institute of Technology, Delhi (batch of 2019) with bachelor's degree in Electrical Engineering. I love coffee, talking about TV shows and creative use of technologies to make life easier.  
 
