@@ -6,3 +6,4 @@ Gemfile.lock
 vendor/
 2016*
 2015*
+.vscode
