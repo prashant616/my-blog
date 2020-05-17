@@ -2,18 +2,23 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+<!-- ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
 
-I am currently working at Mercari, Inc. as Machine Learning Engineer in Tokyo, Japan. I have strong background in Computer Vision, Deep Learning, Speech Recognition and NLP. I am an alumni of Indian Institute of Technology, Delhi (batch of 2019) with bachelor's degree in Electrical Engineering. I love coffee, talking about TV shows and creative use of technologies to make life easier.  
+<img class="selfie" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" alt="Profile Image" style="width:25%;float:right;" />
+
+I am currently working at Mercari, Inc. as Machine Learning Engineer in Tokyo, Japan. My areas of interest include creating production grade AI systems as well as research in Deep Learning, Natural Language Processing, Computer Vision & Speech Recognition. I am an alumni of Indian Institute of Technology, Delhi (batch of 2019) with bachelor's degree in Electrical Engineering. Feel free to contact me to have a chat.
 
 [Click here]({{ site.url }}/{{ site.resume-url }}) to see my resume in pdf format.
+
+---
 
 My github contributions chart:
 <img src="https://ghchart.rshah.org/prashant616" alt="Prashant's GitHub Contributions" style="width:100%;">
 
 ---
 ## Areas of Interest
-Deep Learning, Natural Language Processing, DevOps, Computer Vision, Speech Recognition
+- Creating production grade AI systems
+- Research in Deep Learning, Natural Language Processing, Computer Vision & Speech Recognition
 
 ---
 ## Skills
@@ -22,7 +27,7 @@ Python, Golang, C, C++, Java, SQL
 **ML Libraries & Frameworks**  
 Tensorflow, Keras, PyTorch, NLTK, Scikit-Learn, Open-CV, Pandas, Numpy  
 **Tools & Platorms**  
-Kubernetes, CircleCI, Docker, Google Cloud Platorm, gRPC, Git, BigQuery, MySQL, MongoDB
+Kubernetes, CircleCI, Docker, Datadog, Google Cloud Platform, gRPC, Git, Sentry, BigQuery, MySQL, MongoDB
 
 ---
 
