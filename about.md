@@ -8,6 +8,9 @@ I am currently working at Mercari, Inc. as Machine Learning Engineer in Tokyo, J
 
 [Click here]({{ site.url }}/{{ site.resume-url }}) to see my resume in pdf format.
 
+My github contributions chart:
+<img src="https://ghchart.rshah.org/prashant616" alt="Prashant's GitHub Contributions" style="width:100%;">
+
 ---
 ## Areas of Interest
 Deep Learning, Natural Language Processing, DevOps, Computer Vision, Speech Recognition
