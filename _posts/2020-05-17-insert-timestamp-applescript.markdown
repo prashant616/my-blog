@@ -1,7 +1,7 @@
 ---
 title: "Keyboard shortcut to insert current timestamp as text using AppleScript"
 layout: post
-date: 2020-04-05 18:04
+date: 2020-05-17 18:04
 image: 
 headerImage: false
 tag:
