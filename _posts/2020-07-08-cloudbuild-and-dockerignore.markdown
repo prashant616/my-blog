@@ -1,7 +1,7 @@
 ---
 title: "Google Cloud Build ignores .dockerignore"
 layout: post
-date: 2020-07-08 07:26
+date: 2020-07-07 17:26
 image: 
 headerImage: false
 tag:
