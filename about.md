@@ -4,34 +4,41 @@ layout: page
 ---
 <!-- ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
 
-<img class="selfie" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" alt="Profile Image" style="width:25%;float:right;" />
+<!-- <img class="selfie" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" alt="Profile Image" style="width:25%;float:right;" /> -->
 
-I am currently working at Mercari, Inc. as Machine Learning Engineer in Tokyo, Japan. My areas of interest include creating production grade AI systems as well as research in Deep Learning, Natural Language Processing, Computer Vision & Speech Recognition. I am an alumni of Indian Institute of Technology, Delhi (batch of 2019) with bachelor's degree in Electrical Engineering. Feel free to contact me to have a chat.
+I am currently working at Mercari, Inc. as Machine Learning Engineer in Tokyo, Japan. My areas of interest include creating production grade distributed machine learning systems as well as research in Deep Learning, Natural Language Processing, Computer Vision & Speech Recognition. I am an alumni of Indian Institute of Technology, Delhi (batch of 2019) with bachelor's degree in Electrical Engineering. Feel free to contact me to have a chat.
 
 [Click here]({{ site.url }}/{{ site.resume-url }}) to see my resume in pdf format.
 
 ---
 
-My github contributions chart:
-<img src="https://ghchart.rshah.org/prashant616" alt="Prashant's GitHub Contributions" style="width:100%;">
+<!-- My github contributions chart:
+<img src="https://ghchart.rshah.org/prashant616" alt="Prashant's GitHub Contributions" style="width:100%;"> -->
 
----
+<!-- --- -->
+
 ## Areas of Interest
-- Creating production grade AI systems
+
+- Building production grade distributed machine learning systems
 - Research in Deep Learning, Natural Language Processing, Computer Vision & Speech Recognition
 
 ---
+
 ## Skills
+
 **Programming Languages**  
-Python, Golang, C, C++, Java, SQL  
+Python, Golang
+
 **ML Libraries & Frameworks**  
-Tensorflow, Keras, PyTorch, NLTK, Scikit-Learn, Open-CV, Pandas, Numpy  
+Tensorflow, Keras, PyTorch, NLTK, Scikit-Learn, Open-CV, Pandas, Numpy
+
 **Tools & Platorms**  
 Kubernetes, CircleCI, Docker, Datadog, Google Cloud Platform, gRPC, Git, Sentry, BigQuery, MySQL, MongoDB
 
 ---
 
 ## EDUCATION
+
 **Indian Institute of Tecnology (IIT), Delhi**  
 *July 2015 - May 2019 // New Delhi, India*  
 Bachelor of Technology in Electrical Engineering
@@ -62,11 +69,13 @@ Bachelor of Technology in Electrical Engineering
 ---
 
 ## LANGUAGES
+
 English, Hindi, Japanese
 
 ---
 
 ## HOBBIES
+
 Table Tennis, Kayaking, Hiking, Video Games
 
 <!-- <h2>Projects</h2>
