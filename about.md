@@ -32,24 +32,24 @@ Python, Golang
 **ML Libraries & Frameworks**  
 Tensorflow, Keras, PyTorch, NLTK, Scikit-Learn, Open-CV, Pandas, Numpy
 
-**Tools & Platorms**  
+**Tools & Platforms**  
 Kubernetes, CircleCI, Docker, Datadog, Google Cloud Platform, gRPC, Git, Sentry, BigQuery, MySQL, MongoDB
 
 ---
 
-## EDUCATION
+## Education
 
-**Indian Institute of Tecnology (IIT), Delhi**  
+**Indian Institute of Technology (IIT), Delhi**  
 *July 2015 - May 2019 // New Delhi, India*  
 Bachelor of Technology in Electrical Engineering
 
 ---
 
-## PUBLICATIONS
+## Publications
 
 1. [**Data Driven Sensing for Action Recognition using Deep Convolutional Neural Networks**](https://www.researchgate.net/publication/337488173_Data_Driven_Sensing_for_Action_Recognition_Using_Deep_Convolutional_Neural_Networks)  
 *Lecture Notes in Computer Science, vol 11941. Springer, Cham // Dec 2019*
-  - Developed a novel data-driven undersampling method using sub-pixel convolutional layers and integrated it with Inflated 3D ConvNet for action recognition
+  - Developed a novel data-driven under-sampling method using sub-pixel convolutional layers and integrated it with Inflated 3D ConvNet for action recognition
   - Successfully performed action recognition on both UCF-101 and HMDB-51 datasets at multiple (including very high) under-sampling ratios with small drop in accuracy
 
 2. [**Compressive Sensing Based Privacy for Fall Detection**](https://www.researchgate.net/publication/338188678_Compressive_sensing_based_privacy_for_fall_detection)  
@@ -64,17 +64,17 @@ Bachelor of Technology in Electrical Engineering
 *Preprint // Apr 2019*
   - Developed a few shot speaker identification framework using deep convolutional neural networks with prototypical loss
   - Performed speaker identification and few shot speaker identification tasks on Voxceleb dataset using Capsule Network, VGG and ResNet34 architectures
-  - Showed generalisation capability of the networks on both tasks by performing experiments on VCTK Corpus
+  - Showed generalization capability of the networks on both tasks by performing experiments on VCTK Corpus
 
 ---
 
-## LANGUAGES
+## Languages
 
 English, Hindi, Japanese
 
 ---
 
-## HOBBIES
+## Hobbies
 
 Table Tennis, Listening to podcasts, Kayaking, Hiking, Video Games
 
