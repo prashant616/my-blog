@@ -76,7 +76,22 @@ English, Hindi, Japanese
 
 ## HOBBIES
 
-Table Tennis, Kayaking, Hiking, Video Games
+Table Tennis, Listening to podcasts, Kayaking, Hiking, Video Games
+
+---
+
+## List of my favorite podcasts
+
+- Darknet Diaries
+- NLP Highlights
+- The TWIML AI Podcast
+- Talk Python To Me
+- Talks at Google
+- Soft Skills Engineering
+- The West Wing Weekly
+- Planet Money
+- The Happiness Lab with Dr. Laurie Santos
+- The Seen and the Unseen
 
 <!-- <h2>Projects</h2>
 
