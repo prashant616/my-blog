@@ -21,4 +21,28 @@ description: Collection of commands and utilities for quick look-up.
 
   [Source](https://medium.com/faun/delete-kubernetes-pods-with-a-regex-f396291bba0e)
 
-- *Add here*
+- Yes/no prompt in bash.
+  This snippet will give a yes/no prompt if `INPUT_PATH` variable is a directory.
+
+  ```bash
+  if [ -d "$INPUT_PATH" ]; then
+    read -r -p "Given path is a directory. Continue? [Y/n] " input
+    case $input in
+        [yY][eE][sS]|[yY])
+    echo "Yes"
+    # add commands that you want to run when user says yes here
+    ;;
+        [nN][oO]|[nN])
+    echo "No"
+    echo "Aborting"
+    exit 0
+    ;;
+        *)
+    echo "Invalid input..."
+    exit 1
+    ;;
+    esac
+  fi
+  ```
+
+- *Add more here*
