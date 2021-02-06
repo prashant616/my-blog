@@ -16,12 +16,13 @@ description: Collection of commands and utilities for quick look-up.
 - Cleaning resources in kubernetes namespace:
 
   ```bash
-  kubectl get pods -n mynamespace --no-headers=true | awk '/pattern1|pattern2/{print $1}'| xargs  kubectl delete -n mynamespace pod
+  kubectl get pods -n mynamespace --no-headers=true | awk '/pattern1|pattern2/{print $1}'| xargs kubectl delete -n mynamespace pod
   ```
 
   [Source](https://medium.com/faun/delete-kubernetes-pods-with-a-regex-f396291bba0e)
 
 - Yes/no prompt in bash.
+  
   This snippet will give a yes/no prompt if `INPUT_PATH` variable is a directory.
 
   ```bash
