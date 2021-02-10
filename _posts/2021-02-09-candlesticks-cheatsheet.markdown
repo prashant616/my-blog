@@ -5,7 +5,7 @@ date: 2021-02-09 18:26
 image: 
 headerImage: false
 tag:
-- bash
+- finance
 star: false
 category: blog
 author: prashant
