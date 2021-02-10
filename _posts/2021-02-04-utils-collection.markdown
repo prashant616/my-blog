@@ -16,7 +16,7 @@ description: Collection of commands and utilities for quick look-up.
 - Cleaning resources in kubernetes namespace:
 
   ```bash
-  kubectl get pods -n mynamespace --no-headers=true | awk '/pattern1|pattern2/{print $1}'| xargs kubectl delete -n mynamespace pod
+  kubectl get pods -n mynamespace --no-headers=true | awk '/pattern1|pattern2/{print $1}' | xargs kubectl delete -n mynamespace pod
   ```
 
   [Source](https://medium.com/faun/delete-kubernetes-pods-with-a-regex-f396291bba0e)
@@ -45,5 +45,15 @@ description: Collection of commands and utilities for quick look-up.
     esac
   fi
   ```
+
+- Convert an image from `HEIC` format to `JPG` format.
+
+  Use `convert` command from [imagemagick](https://imagemagick.org/script/convert.php).
+
+  ```bash
+  magick convert foo.HEIC foo.jpg
+  ```
+
+  [Source](https://apple.stackexchange.com/a/347507)
 
 - *Add more here*
