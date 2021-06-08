@@ -43,8 +43,8 @@ twitter: primaprashant
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: prashant616
-linkedin: prashant616
+github: primaprashant
+linkedin: primaprashant
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -53,10 +53,10 @@ linkedin: prashant616
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: prs0704@gmail.com
+email: prashant.anand@alumni.iitd.ac.in
 googlescholar: pEIsZ6gAAAAJ
 
-repository: prashant616/my-blog
+repository: primaprashant/my-blog
 
 authors:
     prashant:
@@ -64,7 +64,7 @@ authors:
         bio: Machine Learning Engineer
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: prashant616x
+        twitter: primaprashant
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
