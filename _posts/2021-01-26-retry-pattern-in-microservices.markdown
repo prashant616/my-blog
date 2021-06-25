@@ -10,6 +10,7 @@ tag:
 - system-design
 - distributed-systems
 - design-patterns
+- mercari
 star: false
 category: blog
 author: prashant
